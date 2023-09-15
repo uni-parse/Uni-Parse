@@ -16,6 +16,9 @@
 
   <li>currently I'm learning Back End:
     <a href=https://nodejs.org/>NodeJs</a>,
+    <a href=https://expressjs.com/>Express</a> (done),
+     authentication with sessions and
+    <a href=https://www.npmjs.com/package/jsonwebtoken>JsonWebToken</a> (done),
     <a href=https://www.postgresql.org/>PostgreSQL</a> (SQL database),
     <a href=https://www.mongodb.com/>MongoDB</a> (no-SQL/document database).
   </li>
