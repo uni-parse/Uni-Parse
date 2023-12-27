@@ -1,6 +1,6 @@
-# Hi I'm UniParse >_#
-
-Am **Full** Stack Web Developer & Designer
+# Hi **>_#**
+I'm ***UniParse***,  
+Full Stack Web Developer & Designer.
 
 ## Front End
 - [React](https://react.dev) /
@@ -16,24 +16,29 @@ Am **Full** Stack Web Developer & Designer
 ## Back End
 - [NodeJs](https://nodejs.org) /
 [Express](https://expressjs.com)
-- authentication: sessions /
-[JsonWebToken](https://npmjs.com/package/jsonwebtoken) /
-[NextAuth](https://next-auth.js.org) OAuth2
 - databases: [SQLite](https://www.sqlite.org) /
 [PostgreSQL](https://postgresql.org) /
 [MongoDB](https://mongodb.com)
+- authentication: sessions /
+[JsonWebToken](https://npmjs.com/package/jsonwebtoken) /
+[NextAuth](https://next-auth.js.org) OAuth2
+- E-Commerce APIs: [Stripe](https://dashboard.stripe.com) /
+[Paypal](https://developer.paypal.com/dashboard)
 
 ## Design
-- [Figma](https://figma.com/@UniParse) (in progress ...)
-- [Photoshop](https://adobe.com/products/photoshop) (in progress ...)
-- [Illustration](https://adobe.com/products/illustrator) (in progress ...)
+currently in progress ...
+- [Figma](https://figma.com/@UniParse)
+- [Photoshop](https://adobe.com/products/photoshop)
+- [Illustration](https://adobe.com/products/illustrator)
 
-## Futur plans to learn Native Apps
+## Futur plans
+learn Native Apps (maybe 2025)
 - [React Native](https://reactnative.dev) for Mobile
 - [Electron](https://electronjs.org) fro Desktop
 
 ## contacts
-[Gmail](mailto:theuniparse@gmail.com),
-[Twitter](https://twitter.com/uniparse),
-[Facebook](https://facebook.com/uniparse)
+- [Gmail](mailto:theuniparse@gmail.com)
+- [Twitter](https://twitter.com/uniparse)
+- [LinkedIn](https://linkedin.com/in/uniparse)
+- [Facebook](https://facebook.com/uniparse)
   
