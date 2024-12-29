@@ -34,7 +34,7 @@ currently in progress ...
 ## Futur plans
 learn Native Apps (maybe 2025)
 - [React Native](https://reactnative.dev) for Mobile
-- [Electron](https://electronjs.org) fro Desktop
+- [Electron](https://electronjs.org) for Desktop
 
 ## contacts
 - [Gmail](mailto:theuniparse@gmail.com)
